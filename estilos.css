@@ -23,7 +23,7 @@ html, body {
 
 }
 body {background-color: #1a1f36;
-  color: ;
+
   font-size: 20px;
 
 }
@@ -161,20 +161,20 @@ pointer-events: none;
 
 
 .menu li:first-child:hover ~ .bg {
-  background: #ffca6d;
+  background: #1a1f36;
 
 }
 .menu li:nth-child(2):hover ~ .bg {
   background: #ff6d6d;
 }
 .menu li:nth-child(3):hover ~ .bg {
-  background: #6dffb9;
+  background: #ffca6d;
 }
 .menu li:nth-child(4):hover ~ .bg {
-  background: #6dcaff;
+  background: #f8b195;
 }
 .menu li:nth-child(5):hover ~ .bg {
-  background: #ec6dff;
+  background:  #8080ff;
 }
 
 .menu li:nth-child(6):hover ~ .bg {
@@ -323,6 +323,7 @@ z-index: 4;
 
 
 }
+
 .livebackground {
   background-color: #ff6d6d;
 }
