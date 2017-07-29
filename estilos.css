@@ -326,3 +326,12 @@ z-index: 4;
 .livebackground {
   background-color: #ff6d6d;
 }
+.datesbox {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  display: inline-block;
+}
+.datesbox img{
+  max-width: 100%;
+}
