@@ -174,7 +174,7 @@ pointer-events: none;
   background: #8080ff;
 }
 .menu li:nth-child(5):hover ~ .bg {
-  background:  #8080ff;
+  background:  #FFB6C1;
 }
 
 .menu li:nth-child(6):hover ~ .bg {
