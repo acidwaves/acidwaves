@@ -171,10 +171,10 @@ pointer-events: none;
   background: #ffca6d;
 }
 .menu li:nth-child(4):hover ~ .bg {
-  background: #8080ff;
+  background: #f8b195f;
 }
 .menu li:nth-child(5):hover ~ .bg {
-  background:  #FFB6C1;
+  background: #FFB6C1;
 }
 
 .menu li:nth-child(6):hover ~ .bg {
