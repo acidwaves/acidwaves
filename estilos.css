@@ -358,4 +358,11 @@ z-index: 4;
   background-color:  #f8b195;
 }
 
+.soundkick {
+        position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  display: inline-block;
+  max-width:80%;
+}
 
