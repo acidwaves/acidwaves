@@ -83,7 +83,7 @@ a:hover{
 		-moz-background-size: cover;
 		-o-background-size: cover;
 		background-size: cover;
-		background-color:#e3ac3c;
+	        background-color:#000000;
 	}
 	h1{
 		margin:5vh 0;
