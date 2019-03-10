@@ -29,9 +29,11 @@ body{
   width: 80%;
   transform: translateX(-50%);
   left: 50%;
+   transform: translateY(-50%);
+  top: 50%;
   position:relative;
-  top: 10%;
-  max-width: 800px;
+ 
+  max-width: 950px;
 
 }
 
