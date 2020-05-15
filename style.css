@@ -1,11 +1,11 @@
 body{
-  background-color: white;
+  background-color: #FFFFFF;
   font-size: 2vh;
   letter-spacing: .5vh;
   text-transform: uppercase;
 
   font-weight: 400;
-  color: white;
+  color: #FFFFFF;
 
 }
 .iframe-container{
